@@ -1,6 +1,8 @@
 ##Andrew's Deliverable
 **Original Repo**: https://github.com/sf-wdi-31/jquery-events-training
+
 Reflection: TBD
+
 Status: 95% done w/ change, need to finish #4 and #5
 
 
